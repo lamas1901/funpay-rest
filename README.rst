@@ -1,7 +1,8 @@
 .. image:: docs/logo.png
     :alt: Screenshot of the cropping
 
-## about
+
+About
 
 Funpay is a major marketplace for gamers where they can buy and sell various virtual items: weapons, gold, game currency, skins and much more. The Funpay website looks a lot like a entire universe with planets and typography.
 
